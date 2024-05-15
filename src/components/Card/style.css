@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 5px 50px;
+  cursor: pointer;
+}
+
+.highlighted {
+  background-color: rgb(230, 229, 173);
+  color: black;
+  font-weight: 500;
+}
+
+.highlight {
+  color: blue;
+}
